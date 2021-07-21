@@ -86,7 +86,7 @@ Base, Bug Fixes, Modules | new updater kgf jinnu |
 
 <div align="center">
 
-KGF JINNU
+KGF JINN
 
 <div align="center">
 
