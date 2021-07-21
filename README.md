@@ -1,5 +1,5 @@
 <div align="center">
-KGF JINNU
+KGF JINN
 <div align="center">
   <img border-radius: 15px src="https://www.linkpicture.com/q/IMG-20210721-WA1184.jpg" width="200" height="200"/>
   <p align="center">
