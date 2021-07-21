@@ -3,7 +3,7 @@ KGF JINNU
 <div align="center">
   <img border-radius: 15px src="https://www.linkpicture.com/q/IMG-20210721-WA1184.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="miyamol" src="https://img.shields.io/badge/LiyaMol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="miyamol" src="https://img.shields.io/badge/Miyamole-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/saidalisaid2"><img title="Author" src="https://img.shields.io/badge/Author-saidali/LiyaMol?color=red&style=for-the-badge&logo=whatsapp"></a>
@@ -20,10 +20,9 @@ Project created by <a href="https://github.com/Miyamole">ABHINAV</a> to make it 
 instagram 
   <div align="center">
     
-  [![ꜱͥᴀͭɪᴅᷤᴀᷟʟͤɪ](https://www.linkpicture.com/q/images-12_42.jpeg?size="60")](https://instagram.com/pavam_n_a_n)
-
+  [![ꜱͥᴀͭɪᴅᷤᴀᷟʟͤɪ](https://www.linkpicture.com/q/images-12_42.jpeg?size="60")](https://instagram.com/pavam_n_a_n) | [![kgfjunn](https://www.linkpicture.com/q/images-12_42.jpeg?size="60")](https://instagram.com/abhi_kunjzz_)
 ---|
-
+[ꜱͥᴀͭɪᴅᷤᴀᷟʟͤɪ](https://instagram.com/pavam_n_a_n)  |
   <p align="center">
   <a href="httsp://github.com/miyamol/LiyaMol">
     <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
@@ -197,10 +196,22 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 
 ``` 
+### മുന്നറിയിപ്പ്!
 
-  
+ `` `
 
-### kgfjinn 
+ യൂസർബോട്ട് കാരണം;  നിങ്ങളുടെ വാട്ട്‌സ്ആപ്പ് അക്കൗണ്ട് നിരോധിച്ചേക്കാം.
+
+ ഇതൊരു ഓപ്പൺ സോഴ്‌സ് പ്രോജക്റ്റാണ്, നിങ്ങൾ ചെയ്യുന്ന എല്ലാത്തിനും നിങ്ങൾ ഉത്തരവാദിയാണ്.
+
+ തീർച്ചയായും, അസീന എക്സിക്യൂട്ടീവുകൾ ഉത്തരവാദിത്തം സ്വീകരിക്കുന്നില്ല.
+
+ അസീന സ്ഥാപിക്കുന്നതിലൂടെ, നിങ്ങൾ ഈ ഉത്തരവാദിത്തങ്ങൾ അംഗീകരിച്ചതായി കണക്കാക്കപ്പെടുന്നു.
+
+ `` `
+
+
+
 
 ### ⚠️ Warning! 
 
@@ -222,10 +233,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
     
 
-  [![ꜱͥᴀͭɪᴅᷤᴀᷟʟͤɪ](https://i.imgur.com/MZDCN2M.jpeg?size=100)](https://github.com/saidalisaid) |[![ꜱͥᴀͭɪᴅᷤᴀᷟʟͤɪ](https://www.linkpicture.com/q/IMG-20210721-WA1184.jpg?size=100)](https://github.com/Miyamole)|
+  [![ꜱͥᴀͭɪᴅᷤᴀᷟʟͤɪ](https://i.imgur.com/MZDCN2M.jpeg?size=100)](https://github.com/saidalisaid) |[![Kgf jinnu](https://www.linkpicture.com/q/IMG-20210721-WA1184.jpg?size=100)](https://github.com/Miyamole)|
 
 ----|----|
 
-[ꜱͥᴀͭɪᴅᷤᴀᷟʟͤɪ](https://github.com/saidalisaid2 )  |  [kgf jinnu](|https://github.com/miyamole)|
+[ꜱͥᴀͭɪᴅᷤᴀᷟʟͤɪ](https://github.com/saidalisaid2 )  | [kgf jinnu](https://github.com/miyamole)|
 
 Base, Bug Fixes, Modules | new updater kgf jinnu |
