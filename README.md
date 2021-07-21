@@ -1,5 +1,5 @@
 <div align="center">
-ꜱͥᴀͭɪᴅᷤᴀᷟʟͤ
+KGF JINNU
 <div align="center">
   <img border-radius: 15px src="https://www.linkpicture.com/q/IMG-20210721-WA1184.jpg" width="200" height="200"/>
   <p align="center">
@@ -10,7 +10,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/saidalisaid2">saidali</a> to make it public
+Project created by <a href="https://github.com/Miyamole">ABHINAV</a> to make it public
     <br>
        | © |
         Reserved |
@@ -25,7 +25,7 @@ instagram
 ---|
 
   <p align="center">
-  <a href="httsp://github.com/miyamol/kgfjinn">
+  <a href="httsp://github.com/miyamol/LiyaMol">
     <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/miyamol/followers"><img title="Followers" src="https://img.shields.io/github/followers/saidalisaid2?color=blue&style=flat-square"></a>
@@ -52,7 +52,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/saidalisaid2/JulieMwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Miyamole/LiyaMol)
      </div>
 <br>
 <br >
@@ -75,10 +75,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![saidali](https://i.imgur.com/MZDCN2M.jpeg?size=100)](https://github.com/saidalisaid2) |  
-----|
-[Miyamol](https://github.com/kgfjinn)  |
-Base, Bug Fixes, Modules | 
+  [![ꜱͥᴀͭɪᴅᷤᴀᷟʟͤɪ](https://i.imgur.com/MZDCN2M.jpeg?size=100)](https://github.com/saidalisaid) |[![ꜱͥᴀͭɪᴅᷤᴀᷟʟͤɪ](https://www.linkpicture.com/q/IMG-20210721-WA1184.jpg?size=100)](https://github.com/Miyamole)|
+----|----|
+[ꜱͥᴀͭɪᴅᷤᴀᷟʟͤɪ](https://github.com/saidalisaid2 )  |  [kgf jinnu](|https://github.com/miyamole)|
+Base, Bug Fixes, Modules | new updater kgf jinnu |
   
     
 
