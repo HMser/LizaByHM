@@ -1,5 +1,5 @@
 <div align="center">
-KGF JINNU
+KGF JINN
 <div align="center">
   <img border-radius: 15px src="https://www.linkpicture.com/q/IMG-20210721-WA1184.jpg" width="200" height="200"/>
   <p align="center">
@@ -25,7 +25,7 @@ instagram
 ---|
 
   <p align="center">
-  <a href="httsp://github.com/miyamol/LiyaMol">
+  <a href="httsp://github.com/miyamol/miyaMol">
     <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/miyamol/followers"><img title="Followers" src="https://img.shields.io/github/followers/saidalisaid2?color=blue&style=flat-square"></a>
@@ -39,7 +39,7 @@ instagram
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LMRZqRtdASiL7P7k4VYJNE)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/https:/Drcr3mwlw1FH9ySwogzSmw)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
