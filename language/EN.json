@@ -203,7 +203,7 @@
         },
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
-            "NEED_REPLY": "*Reply to a photo or video!*",
+            "NEED_REPLY": "*Photo alel Video k mention cheyth tha nanba!*",
             "DOWNLOADING": "```Wait cheyy yennal ready akithara 🤠```"
         },
         "system_stats": {
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*Pikachu Update Available*\n\n please ask support group before updating. Otherwise chance to get error\nhttps://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf \n\nChanges:\n```",
+            "NEW_UPDATE": "*Anees-Lub Update Available*\n\n please ask support group before updating. Otherwise chance to get error\nhttps://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "```Updating..🧚‍♂️```",
+            "UPDATING": "```Anees-Lub is updating..😘```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*😎 Pikachu Restarting*"
+            "AFTER_UPDATE": "*😎 Anees-Lub is  Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
