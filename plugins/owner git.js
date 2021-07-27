@@ -10,7 +10,7 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
     
-    r_text[1] = "*╔═════😎Pikachu😎═════╗*\n           \n*⚜═Pikachu═⚜*\n\n*owner AmeerSuhail - http://Wa.me/+919946432377*\n* *\n🔰instagram:-https://www.instagram.com/ameer_.su_hail?r=nametag*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: AmeerSuhail*"
+    r_text[1] = "*╔═════😎Pikachu Modified😎═════╗*\n           \n*⚜═Anees-Lub═⚜*\n\n*owner AneesAns- http://wa.me/917356378949*\n*          *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Anees-Lub*"
 
     
     await message.client.sendMessage(
@@ -23,7 +23,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Git links*\n           *\n💥═Pikachu Owner Ameer Suhail═💥*\n\n*💘https://github.com/ameer-kallumthodi/pikachu*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
+        r_text[1] = "*Git links*\n           *\n💥═Pikachu Owner Anees-Lub═💥*\n\n*💘https://github.com/Anees-lub/pikachu*\n*     
 
     
         await message.client.sendMessage(
@@ -39,7 +39,7 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
     
-    r_text[1] = "*╔═════😎Pikachu😎═════╗*\n           \n*⚜═Pikachu═⚜*\n\n*owner AmeerSuhail - http://Wa.me/+919946432377*\n* *\n🔰instagram:-https://www.instagram.com/ameer_.su_hail?r=nametag*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: AmeerSuhail*"
+    r_text[1] = "*╔═════😎Pikachu Modified😎═════╗*\n           \n*⚜═Pikachu═⚜*\n\n*owner Anees-Lub - http://wa.me/917356378949*\n*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Anees-Lub*"
 
     
     await message.client.sendMessage(
@@ -52,7 +52,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Git links*\n           *\n💥═Pikachu Owner Ameer Suhail═💥*\n\n*💘https://github.com/ameer-kallumthodi/pikachu*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
+        r_text[1] = "*Git links*\n           *\n💥═Pikachu Owner Aness-Lub═💥*\n\n*💘https://github.com/Anees-lub/pikachu*\n*     
 
     
         await message.client.sendMessage(
