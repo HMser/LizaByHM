@@ -18,11 +18,11 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Saidali*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater KGF JINN*
 
 *bgm updation akku*
 
-*owner number wa.me/918606759500*
+*owner number wa.me/919072328290*
 
 *githublink       https://github.com/saidalisaid2/LiyaMol*
 
