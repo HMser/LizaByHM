@@ -23,7 +23,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Git links*\n           *\n💥═Pikachu Owner Anees-Lub═💥*\n\n*💘https://github.com/Anees-lub/pikachu.git*\n*     
+        r_text[1] = "*Git links*\n           *\n💥═Pikachu Owner Anees-Lub═💥*\n\n*💘https://github.com/ameer-kallumthodi/pikachu*\n*     
 
     
         await message.client.sendMessage(
@@ -52,7 +52,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Git links*\n           *\n💥═Pikachu Owner Aness-Lub═💥*\n\n*💘https://github.com/Anees-lub/pikachu.git*\n*     
+        r_text[1] = "*Git links*\n           *\n💥═Pikachu Owner Aness-Lub═💥*\n\n*💘https://github.com/ameer-kallumthodi/pikachu*\n*     
 
     
         await message.client.sendMessage(
