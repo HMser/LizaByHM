@@ -10,7 +10,7 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
     
-    r_text[1] = "*╔═════😎Pikachu Modified😎═════╗*\n           \n*⚜═Anees-Lub═⚜*\n\n*owner AneesAns- http://wa.me/917356378949*\n*          *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Anees-Lub*"
+    r_text[1] = "*╔═════😎Pikachu Modified😎═════╗*\n           \n*⚜═Anees-Lub═⚜*\n\n*owner AneesAns- http://Wa.me/917356378949*\n*          *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Anees-Lub*"
 
     
     await message.client.sendMessage(
@@ -23,7 +23,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Git links*\n           *\n💥═Pikachu Owner Anees-Lub═💥*\n\n*💘https://github.com/Anees-lub/pikachu*\n*     
+        r_text[1] = "*Git links*\n           *\n💥═Pikachu Owner Anees-Lub═💥*\n\n*💘https://github.com/Anees-lub/pikachu.git*\n*     
 
     
         await message.client.sendMessage(
@@ -39,7 +39,7 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
     
-    r_text[1] = "*╔═════😎Pikachu Modified😎═════╗*\n           \n*⚜═Pikachu═⚜*\n\n*owner Anees-Lub - http://wa.me/917356378949*\n*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Anees-Lub*"
+    r_text[1] = "*╔═════😎Pikachu Modified😎═════╗*\n           \n*⚜═Pikachu═⚜*\n\n*owner Anees-Lub - http://Wa.me/917356378949*\n*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Anees-Lub*"
 
     
     await message.client.sendMessage(
@@ -52,7 +52,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Git links*\n           *\n💥═Pikachu Owner Aness-Lub═💥*\n\n*💘https://github.com/Anees-lub/pikachu*\n*     
+        r_text[1] = "*Git links*\n           *\n💥═Pikachu Owner Aness-Lub═💥*\n\n*💘https://github.com/Anees-lub/pikachu.git*\n*     
 
     
         await message.client.sendMessage(
