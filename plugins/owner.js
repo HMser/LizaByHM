@@ -22,7 +22,7 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
 
 *bgm updation akku*
 
-*owner number wa.me/918606759500*
+*owner number wa.me/919072328290*
 
 *githublink       https://github.com/saidalisaid2/LiyaMol*
 
