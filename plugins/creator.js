@@ -50,7 +50,7 @@ if (Config.WORKTYPE == 'private') {
 
     if (Config.WORKTYPE == 'public') {
 
-        asena.addCommand({pattern: 'owner', fromMe: false, deleteCommand: true, desc: OWNER,}, (async (message, match) => {
+        asena.addCommand({pattern: 'creator', fromMe: false, deleteCommand: true, desc: OWNER,}, (async (message, match) => {
 
     var r_text = new Array ();
 
