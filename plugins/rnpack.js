@@ -443,7 +443,7 @@ var webimage = await axios.get(`https://api.xteam.xyz/textpro/skeleton?text=${en
 }
 if (Config.WORKTYPE == 'public') {
 
-    RAVANA.addCommand({pattern: 'makermenu2', fromMe: false, desc: EFFECT_DESC}, (async (message, match) => {    
+    RAVANA.addCommand({pattern: 'shpack', fromMe: false, desc: EFFECT_DESC}, (async (message, match) => {    
 
     var r_text = new Array ();
 
