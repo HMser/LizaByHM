@@ -35,6 +35,7 @@ module.exports = {
     BGMFILTER: process.env.BGM_FILTER === undefined ? false : convertToBool(process.env.BGM_FILTER),
     DISBGM: process.env.DISABLE_JID_BGM_FILTER === undefined ? false : process.env.DISABLE_JID_BGM_FILTER,
     NOLOG: process.env.NO_LOG === undefined ? 'false' : process.env.NO_LOG,
+    CAPTION_KEY: process.env.CAPTION_KEY === undefined ?'Made by SOPHIA' : process.env.CAPTION_KEY,
     FULLEVA: process.env.FULL_EVA === undefined ? 'false' : process.env.FULL_EVA,
     GIF_WEL: process.env.GIF_WEL === undefined ? 'https://i.imgur.com/ZoA7as9.mp4' : process.env.GIF_WEL,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://i.imgur.com/NTar8dQ.mp4' : process.env.GIF_BYE,
