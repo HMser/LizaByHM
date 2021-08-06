@@ -28,14 +28,29 @@
             "value": "true"
         },
         "GIF_WEL": {
-            "description": "Welcome message video වෙනස් කිරීම සඳහා ඔබගේ video link පහත සඳහන් කරන්න.",
+            "description": "Welcome message video നിങ്ങൾക്ക് വേണ്ട welcome gif ന്റെ link കൊടുക്കുക .",
             "required": true,
             "value": "https://i.imgur.com/ZoA7as9.mp4"
         },
         "GIF_BYE": {
-            "description": "Goodbye message video වෙනස් කිරීම සඳහා ඔබගේ video link පහත සඳහන් කරන්න.",
+            "description": "Goodbye message video നിങ്ങൾക്ക് വേണ്ട goodbye gif ന്റെ link കൊടുക്കുക .",
             "required": true,
             "value": "https://i.imgur.com/NTar8dQ.mp4"
+        },
+         "XTEAM_API": {
+            "description": "api key. https://api.xteam.xyz/",
+            "required": false,
+            "value": "5bd33b276d41d6b4"
+        },
+	"ZEKS_API": {
+            "description": "api key. https://zeks.xyz/",
+            "required": false,
+            "value": "cjxJIn9eDletRHac3CG6CdvGxFH"
+        },
+	"LOLUHUMAN_API": {
+            "description": "api key. https://lolhuman.herokuapp.com/",
+            "required": false,
+            "value": "990580a2e31add15990665b0"
         },
         "ANTİ_LİNK": {
             "description": "Link Engelleme Sistemi. Link Blocking System.",
