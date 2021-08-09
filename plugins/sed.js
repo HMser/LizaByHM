@@ -10,11 +10,11 @@ const need = "Command Kazhinn Yanthankilum yazhuth muthe\n🗡🗡"
 
 if (Config.WORKTYPE == 'private') {
 
-  Asena.addCommand({ pattern: 'zglass ?(.*)', fromMe: true, dontAddCommandList: true }, (async (message, match) => {
+  Asena.addCommand({ pattern: 'sed ?(.*)', fromMe: true, dontAddCommandList: true }, (async (message, match) => {
 
     if (match[1] === '') return await message.sendMessage(need);
 
-    var ttinullimage = await axios.get(`https://api.lolhuman.xyz/api/ephoto1/wetglass?apikey=qamdi5652&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+    var ttinullimage = await axios.get(`https://api.lolhuman.xyz/api/ephoto1/wetglass?apikey=queenamdipublic&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made By Sophia' })
 
@@ -23,11 +23,11 @@ if (Config.WORKTYPE == 'private') {
 
 else if (Config.WORKTYPE == 'public') {
 
-  Asena.addCommand({ pattern: 'zglass ?(.*)', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
+  Asena.addCommand({ pattern: 'sed ?(.*)', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
 
     if (match[1] === '') return await message.sendMessage(need);
 
-    var ttinullimage = await axios.get(`https://api.lolhuman.xyz/api/ephoto1/wetglass?apikey=qamdi5652&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+    var ttinullimage = await axios.get(`https://api.lolhuman.xyz/api/ephoto1/wetglass?apikey=queenamdipublic&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made By Sophia' })
 
