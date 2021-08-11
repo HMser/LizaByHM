@@ -70,7 +70,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anees-lub/pikachu.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aneeslub/Pikachu.git)
      </div>
 <br>
 <br >
@@ -85,7 +85,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Anees-lub/pikachu
+$ git clone https://github.com/aneeslub/Pikachu
 $ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -95,7 +95,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Anees-lub/pikachu
+$ git clone https://github.com/aneeslub/pikachu
 $ cd pikachu
 $ chmod +x *
 $ npm i
