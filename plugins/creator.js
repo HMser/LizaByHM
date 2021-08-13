@@ -16,7 +16,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═════😎Pikachu😎═════╗*\n           \n*⚜═Pikachu═⚜*\n\n*owner Anees - http://Wa.me/+917356378949*\n* *\n🔰instagram:- : synazX.op*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Anees-Muhammed*"
+    r_text[1] = "*╔═════😈BlackDevil😈═════╗*\n           \n*⚜═BlackDevil═⚜*\n\n*owner Anees - http://Wa.me/+917356378949*\n* *\n🔰instagram:- : synazX.op*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Anees-Muhammed*"
 
     
 
@@ -32,7 +32,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═Pikachu Owner Anees-Muhammed═💥*\n\n*💘 https://github.com/Anees-lub/Pikachu*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
+        r_text[1] = "*Git links*\n           *\n💥═BlackDevil Owner Anees-Muhammed═💥*\n\n*💘https://github.com/aneeslub/Black-Devil*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
 
     
 
@@ -56,7 +56,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═════😎Pikachu😎═════╗*\n           \n*⚜═Pikachu═⚜*\n\n*owner Anees - http://Wa.me/+917356378949*\n* *\n🔰instagram:- : synazX.op*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Anees-Muhammed*"
+    r_text[1] = "*╔═════😈BlackDevil😈═════╗*\n           \n*⚜═BlackDevil═⚜*\n\n*owner Anees - http://Wa.me/+917356378949*\n* *\n🔰instagram:- : synazX.op*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Anees-Muhammed*"
 
     
 
@@ -72,7 +72,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═Pikachu Owner Anees-Muhammed═💥*\n\n*💘 https://github.com/Anees-lub/Pikachu*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
+        r_text[1] = "*Git links*\n           *\n💥═Pikachu Owner Anees-Muhammed═💥*\n\n*💘https://github.com/aneeslub/Black-Devil*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
 
     
 
