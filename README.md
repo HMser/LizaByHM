@@ -94,7 +94,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
   [![Farhan dqz](https://avatars.githubusercontent.com/u/83164448?v=4)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/Alien-alfa) | [![Ichu](https://camo.githubusercontent.com/e2f6083770813ffcb385e9e12f796ae3ee1d085ee71db650cde1dfce6e158301/68747470733a2f2f692e696d6775722e636f6d2f4b6245324e63652e6a706567)](https://github.com/Hisham-Muhammed) 
 ----|----|----
-[Farhan dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N]](https://github.com/Alien-alfa) | [Ichu](https://github.com/Hisham-Muhammed)
+[Farhan dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/Alien-alfa) | [Ichu](https://github.com/Hisham-Muhammed)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
