@@ -1,8 +1,8 @@
 
 <div align="center">
-  <img border-radius: 55px src="https://i.imgur.com/KbE2Nce.jpeg" width="200" height="200"/>
+  <img border-radius: 55px src="https://i.imgur.com/KbE2Nce.jpeg" width="500" height="500"/>
   <p align="center">
-<a href="#"><img title="Sophia" src="https://img.shields.io/badge/Sophia-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Sophia" src="https://img.shields.io/badge/Sophia-white?colorA=%23ff0000&colorB=%23017e710&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Hisham-Muhammed/Sophia?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -19,13 +19,13 @@ Project created by <a href="https://youtube.com/c/ICHUTECH">Hisham-Muhammed</a> 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
-    <img src="https://img.shields.io/github/repo-size/ichu-s/Sophia?color=green&label=Repo%20total%20size&style=flat-square">
+  <a href="httsp://github.com/ichu-s/sophia">
+    <img src="https://img.shields.io/github/repo-size/ichu-s/sophia?color=green&label=Repo%20total%20size&style=flat-square">
 <p align="center">
-<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumthodi/pikachu?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kallumthodi/pikachu?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ameer-kallumthodi/pikachu?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Hisham-muhammed/followers"><img title="Followers" src="https://img.shields.io/github/followers/Hisham-muhammed?color=blue&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Hisham-muhammed/sophia?color=blue&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Hisham-muhammed/sophia?color=blue&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Hisham-muhammed/sophia?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
