@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 55px src="https://i.imgur.com/KbE2Nce.jpeg" width="1500" height="1500"/>
+  <img border-radius: 55px src="https://i.imgur.com/KbE2Nce.jpeg" width="700" height="700"/>
   <p align="center">
 <a href="#"><img title="Sophia" src="https://img.shields.io/badge/Sophia-white?colorA=%23ff0000&colorB=%23017e710&style=for-the-badge"></a>
 </p>
