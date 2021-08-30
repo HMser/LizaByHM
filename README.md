@@ -5,7 +5,7 @@
 <a href="#"><img title="Sophia" src="https://img.shields.io/badge/Hardwell23-white?colorA=%23ff0000&colorB=%23017e710&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Hisham-Muhammed/Sophia?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/AnasHardwell/Hardwell-23?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
