@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 55px src="Hardwell23" width="700" height="700"/>
+  <img border-radius: 55px src="20210830_200049.jpg" width="700" height="700"/>
   <p align="center">
 <a href="#"><img title="Sophia" src="https://img.shields.io/badge/Sophia-white?colorA=%23ff0000&colorB=%23017e710&style=for-the-badge"></a>
 </p>
