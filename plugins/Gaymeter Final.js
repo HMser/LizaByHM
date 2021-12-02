@@ -400,7 +400,7 @@ else if (con.LANG === 'HI') {
                 message.jid, 
                 fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/giphy.mp4"),
                 MessageType.video, 
-                { mimetype: Mimetype.gif, caption: `*समलैंगिक प्रतिशत की गणना!* 🏳️‍🌈\n*परिणाम:* ${r_text[i]}` }
+                { mimetype: Mimetype.gif, caption: `*समलैं गिक प्रतिशत की गणना!* 🏳️‍🌈\n*परिणाम:* ${r_text[i]}` }
             )
         }));
     }
