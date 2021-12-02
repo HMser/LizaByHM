@@ -66,7 +66,7 @@ var OYUN = {
         word: Config.LANG == 'TR' || Config.LANG == 'AZ' ? '=== *Kelime* ===\n>>> ' : '=== *Word* ===\n>>> ',
         word_forbiddens: Config.LANG == 'TR' || Config.LANG == 'AZ' ? '\n\n=== *Yasaklı Kelimeler* ===\n' : '\n\n=== *Forbidden Words* ===\n',
         began: Config.LANG == 'TR' || Config.LANG == 'AZ' ? '*Oyun Başladı!*' : '*Game has Started!*',
-        instantOver: Config.LANG == 'TR' || Config.LANG == 'AZ' ? '*Oyunu Başlatan Kişi Hata Yaptı! Oyun Sona Erdi!*' : '*The Person who Started the Game Made a Mistake. The Game is Over!*',
+        instantOver: Config.LANG == 'TR' || Config.LANG == 'AZ' ? '*Oyunu Ba şlatan Kişi Hata Yaptı! Oyun Sona Erdi!*' : '*The Person who Started the Game Made a Mistake. The Game is Over!*',
         msg: 'base64',
         forbiddens: {
             msg1: '',
