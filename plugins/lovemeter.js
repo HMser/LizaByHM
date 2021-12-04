@@ -1036,7 +1036,7 @@ else {
                 message.jid, 
                 fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/lmeter.mp4"),
                 MessageType.video, 
-                { mimetype: Mimetype.gif, caption: `*Do you know how much you Love* ` + '@' + message.reply_message.jid.split('@')[0] + `❤️ \n\n*Well i calculated it and here is how much you love * + '@' + message.reply_message.jid.split('@')[0] + `:` ${r_text[i]} ❤️❤️` }
+                { mimetype: Mimetype.gif, caption: `*Do you know how much you Love* ` + '@' + message.reply_message.jid.split('@')[0] + `❤️ \n\n*Well i calculated it and here is how much you love :* ${r_text[i]} ❤️❤️` }
             )
         }));
     }
