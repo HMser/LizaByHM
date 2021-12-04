@@ -910,7 +910,7 @@ else {
                 message.jid, 
                 fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/lmeter.mp4"),
                 MessageType.video, 
-                { mimetype: Mimetype.gif, caption: `*Here is your love percentage towards!*` + '@' + message.reply_message.jid.split('@')[0] + `🏳️‍🌈\n*Result:* ${r_text[i]}` }
+                { mimetype: Mimetype.gif, caption: `*Here is your love percentage towards!* ` + '@' + message.reply_message.jid.split('@')[0] + `🏳️‍🌈\n*Result:* ${r_text[i]}` }
             )
         }));
     }
@@ -1036,7 +1036,7 @@ else {
                 message.jid, 
                 fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/lmeter.mp4"),
                 MessageType.video, 
-                { mimetype: Mimetype.gif, caption: `*Here is your love percentage towards!*` + '@' + message.reply_message.jid.split('@')[0] + `🏳️‍🌈\n*Result:* ${r_text[i]}` }
+                { mimetype: Mimetype.gif, caption: `*Here is your love percentage towards!* ` + '@' + message.reply_message.jid.split('@')[0] + `🏳️‍🌈\n*Result:* ${r_text[i]}` }
             )
         }));
     }
