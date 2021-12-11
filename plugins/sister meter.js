@@ -10,7 +10,7 @@ const fs = require('fs');
 
 // Descriptions
 const TRGAY = "Yanıtladığınız kişinin gay yüzdesini ölçer."
-const ENGAY = "Measures the percentage of brotherhood to the person you respond to."
+const ENGAY = "Measures the percentage of sisterhood to the person you respond to."
 const HIGAY = "आपके द्वारा प्रतिसाद देने वाले समलैंगिकों के प्रतिशत को मापता है"
 const AZGAY = "Yanıtladığınız kişinin gay yüzdesini ölçer."
 
@@ -25,7 +25,7 @@ if (con.LANG === 'TR') {
 
     if (con.WORKTYPE === 'private') {
 
-        Asena.addCommand({pattern: 'brmeter', fromMe: true, desc: TRGAY}, (async (message, match) => {
+        Asena.addCommand({pattern: 'sismeter', fromMe: true, desc: TRGAY}, (async (message, match) => {
 
             if (message.reply_message === false) return await message.client.sendMessage(message.jid, TRREP, MessageType.text);
 
@@ -243,7 +243,7 @@ if (con.LANG === 'TR') {
 
             await message.client.sendMessage(
                 message.jid, 
-                fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/brmeter.mp4"),
+                fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/sismeter.mp4"),
                 MessageType.video, 
                 { mimetype: Mimetype.gif, caption: `*Gay Yüzdesi Hesaplandı!* 🏳️‍🌈\n*Sonuç:* ${r_text[i]}` }
             )
@@ -251,7 +251,7 @@ if (con.LANG === 'TR') {
     }
     else if (con.WORKTYPE === 'public') {
 
-        Asena.addCommand({pattern: 'brmeter', fromMe: false, desc: TRGAY}, (async (message, match) => {
+        Asena.addCommand({pattern: 'sismeter', fromMe: false, desc: TRGAY}, (async (message, match) => {
 
             if (message.reply_message === false) return await message.client.sendMessage(message.jid, TRREP, MessageType.text);
 
@@ -469,7 +469,7 @@ if (con.LANG === 'TR') {
 
             await message.client.sendMessage(
                 message.jid, 
-                fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/brmeter.mp4"),
+                fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/sismeter.mp4"),
                 MessageType.video, 
                 { mimetype: Mimetype.gif, caption: `*Gay Yüzdesi Hesaplandı!* 🏳️‍🌈\n*Sonuç:* ${r_text[i]}` }
             )
@@ -480,7 +480,7 @@ else if (con.LANG === 'HI') {
 
     if (con.WORKTYPE === 'private') {
 
-        Asena.addCommand({pattern: 'brmeter', fromMe: true, desc: HIGAY}, (async (message, match) => {
+        Asena.addCommand({pattern: 'sismeter', fromMe: true, desc: HIGAY}, (async (message, match) => {
 
             if (message.reply_message === false) return await message.client.sendMessage(message.jid, HIREP, MessageType.text);
 
@@ -698,7 +698,7 @@ else if (con.LANG === 'HI') {
 
             await message.client.sendMessage(
                 message.jid, 
-                fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/brmeter.mp4"),
+                fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/sismeter.mp4"),
                 MessageType.video, 
                 { mimetype: Mimetype.gif, caption: `*समलैं गिक प्रतिशत की गणना!* 🏳️‍🌈\n*परिणाम:* ${r_text[i]}` }
             )
@@ -706,7 +706,7 @@ else if (con.LANG === 'HI') {
     }
     else if (con.WORKTYPE === 'public') {
 
-        Asena.addCommand({pattern: 'brmeter', fromMe: false, desc: HIGAY}, (async (message, match) => {
+        Asena.addCommand({pattern: 'sismeter', fromMe: false, desc: HIGAY}, (async (message, match) => {
 
             if (message.reply_message === false) return await message.client.sendMessage(message.jid, HIREP, MessageType.text);
 
@@ -924,7 +924,7 @@ else if (con.LANG === 'HI') {
 
             await message.client.sendMessage(
                 message.jid, 
-                fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/brmeter.mp4"),
+                fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/sismeter.mp4"),
                 MessageType.video, 
                 { mimetype: Mimetype.gif, caption: `*समलैंगिक प्रतिशत की गणना!* 🏳️‍🌈\n*परिणाम:* ${r_text[i]}` }
             )
@@ -935,7 +935,7 @@ else if (con.LANG === 'AZ') {
 
     if (con.WORKTYPE === 'private') {
 
-        Asena.addCommand({pattern: 'brmeter', fromMe: true, desc: AZGAY}, (async (message, match) => {
+        Asena.addCommand({pattern: 'sismeter', fromMe: true, desc: AZGAY}, (async (message, match) => {
 
             if (message.reply_message === false) return await message.client.sendMessage(message.jid, AZREP, MessageType.text);
 
@@ -1153,7 +1153,7 @@ else if (con.LANG === 'AZ') {
 
             await message.client.sendMessage(
                 message.jid, 
-                fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/brmeter.mp4"),
+                fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/sismeter.mp4"),
                 MessageType.video, 
                 { mimetype: Mimetype.gif, caption: `*Gay Yüzdesi Hesaplandı!* 🏳️‍🌈\n*Sonuç:* ${r_text[i]}` }
             )
@@ -1161,7 +1161,7 @@ else if (con.LANG === 'AZ') {
     }
     else if (con.WORKTYPE === 'public') {
 
-        Asena.addCommand({pattern: 'brmeter', fromMe: false, desc: AZGAY}, (async (message, match) => {
+        Asena.addCommand({pattern: 'sismeter', fromMe: false, desc: AZGAY}, (async (message, match) => {
 
             if (message.reply_message === false) return await message.client.sendMessage(message.jid, AZREP, MessageType.text);
 
@@ -1379,7 +1379,7 @@ else if (con.LANG === 'AZ') {
 
             await message.client.sendMessage(
                 message.jid, 
-                fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/brmeter.mp4"),
+                fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/sismeter.mp4"),
                 MessageType.video, 
                 { mimetype: Mimetype.gif, caption: `*Gay Yüzdesi Hesaplandı!* 🏳️‍🌈\n*Sonuç:* ${r_text[i]}` }
             )
@@ -1390,11 +1390,11 @@ else {
 
     if (con.WORKTYPE === 'private') {
 
-        Asena.addCommand({pattern: 'brmeter', fromMe: true, desc: ENGAY}, (async (message, match) => {
+        Asena.addCommand({pattern: 'sismeter', fromMe: true, desc: ENGAY}, (async (message, match) => {
 
             if (message.reply_message === false) return await message.client.sendMessage(message.jid, ENREP, MessageType.text);
 
-            await message.client.sendMessage(message.jid, '*Calculating* ' + '@' + message.reply_message.jid.split('@')[0] + '’s *Brother Meter*', MessageType.text, {
+            await message.client.sendMessage(message.jid, '*Calculating* ' + '@' + message.reply_message.jid.split('@')[0] + '’s *Sister Meter*', MessageType.text, {
                 quotedMessage: message.reply_message.data, contextInfo: {mentionedJid: [message.reply_message.jid.replace('c.us', 's.whatsapp.net')]}
 
             });
@@ -1608,19 +1608,19 @@ else {
 
             await message.client.sendMessage(
                 message.jid, 
-                fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/brmeter.mp4"),
+                fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/sismeter.mp4"),
                 MessageType.video, 
-                { mimetype: Mimetype.gif, caption: `*Brother Meter Calculated *\n*Result:* ${r_text[i]} %` }
+                { mimetype: Mimetype.gif, caption: `*Sister Meter Calculated*\n*Result:* ${r_text[i]} %` }
             )
         }));
     }
     else if (con.WORKTYPE === 'public') {
 
-        Asena.addCommand({pattern: 'brmeter', fromMe: false, desc: ENGAY}, (async (message, match) => {
+        Asena.addCommand({pattern: 'sismeter', fromMe: false, desc: ENGAY}, (async (message, match) => {
 
             if (message.reply_message === false) return await message.client.sendMessage(message.jid, ENREP, MessageType.text);
 
-            await message.client.sendMessage(message.jid, '*Calculating* ' + '@' + message.reply_message.jid.split('@')[0] + '’s *Brother Meter*', MessageType.text, {
+            await message.client.sendMessage(message.jid, '*Calculating* ' + '@' + message.reply_message.jid.split('@')[0] + '’s *Sister Meter*', MessageType.text, {
                 quotedMessage: message.reply_message.data, contextInfo: {mentionedJid: [message.reply_message.jid.replace('c.us', 's.whatsapp.net')]}
 
             });
@@ -1834,9 +1834,9 @@ else {
 
             await message.client.sendMessage(
                 message.jid, 
-                fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/brmeter.mp4"),
+                fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/sismeter.mp4"),
                 MessageType.video, 
-                { mimetype: Mimetype.gif, caption: `*Brother Meter Calculated *\n*Result: * ${r_text[i]} %` }
+                { mimetype: Mimetype.gif, caption: `*Sister Meter Calculated*\n*Result: * ${r_text[i]} %` }
             )
         }));
     }
