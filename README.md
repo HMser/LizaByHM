@@ -2,7 +2,7 @@
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="https://cdnaws.sharechat.com/justiceforluttappi_593d1d91-c471-4751-8777-cd409dc2f563-bda0837a-7ad9-44e1-9700-61f8fea9e40d_cmprsd_40.jpg" width="170" height="170"/>
+  <img border-radius: 15px src="https://wallpapercave.com/wp/wp9579723.jpg" width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="Luttappi" src="https://img.shields.io/badge/-Luttappi-pink?&style=for-the-badge"></a>
 </p>
