@@ -20,7 +20,7 @@ Asena.addCommand({pattern: 'compliment ?(.*)', fromMe: true, desc: Lang.CM_DESC}
 	try {
 		const response = await got(url);
 		const json = JSON.parse(response.body);
-		if (response.statusCode === 200) return await message.client.sendMessage(message.jid, '\n\n *compliment : 🤗 ' + Lang.CM +'* ```' + json.compliment + '```\n\n' , MessageType.text);
+		if (response.statusCode === 200) return await message.client.sendMessage(message.jid, '*compliment : 🤗 ' + Lang.CM +'* ```' + json.compliment + '```' , MessageType.text);
 	} catch {
 		return await message.client.sendMessage(message.jid, Lang.NOT_FOUNDAC, MessageType.text);
 	}
@@ -35,7 +35,7 @@ Asena.addCommand({pattern: 'compliment ?(.*)', fromMe: false, desc: Lang.CM_DESC
 	try {
 		const response = await got(url);
 		const json = JSON.parse(response.body);
-		if (response.statusCode === 200) return await message.client.sendMessage(message.jid, '\n\n *compliment : 🤗 ' + Lang.CM +'* ```' + json.compliment + '```\n\n' , MessageType.text);
+		if (response.statusCode === 200) return await message.client.sendMessage(message.jid, '*compliment : 🤗 ' + Lang.CM +'* ```' + json.compliment + '```' , MessageType.text);
 	} catch {
 		return await message.client.sendMessage(message.jid, Lang.NOT_FOUNDAC, MessageType.text);
 	}
