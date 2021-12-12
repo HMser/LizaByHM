@@ -1,8 +1,8 @@
-/* Amalser Bot
-Re-edit Amalser
+/* Asena Bot
+Re-edit Asena
 */
 
-const Amalser = require('../events');
+const Asena = require('../events');
 const {MessageType, GroupSettingChange, Mimetype, MessageOptions} = require('@adiwajshing/baileys');
 const fs = require('fs');
 const Config = require('../config')
@@ -17,7 +17,7 @@ var ddd = ggg.toString('utf-8')
 
 let whb = Config.WORKTYPE == 'public' ? false : true
 
-Amalser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
+Asena.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
 // send a buttons message!credit Amal
     const buttons = [
         {buttonId: 'id1', buttonText: 'Hi ', type: 1},
@@ -26,7 +26,7 @@ Amalser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (a
       
       const buttonMessage = {
           contentText: '```'+Config.BOT+'\n\n```'+Config.ALIVEMSG+'\n',
-          footerText: 'Luttappi ©',
+          footerText: 'Neeraj ©',
           buttons: buttons,
           headerType: 1
       }
