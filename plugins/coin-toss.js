@@ -22,7 +22,7 @@ if (con.LANG === 'TR') {
 
     if (con.WORKTYPE === 'private') {
 
-        Asena.addCommand({pattern: 'roll', fromMe: true, desc: TRZAR}, (async (message, match) => {
+        Asena.addCommand({pattern: 'toss', fromMe: true, desc: TRZAR}, (async (message, match) => {
 
             await message.client.sendMessage(message.jid, TRSEN, MessageType.text);
             await new Promise(r => setTimeout(r, 4000));
@@ -41,7 +41,7 @@ if (con.LANG === 'TR') {
     }
     else if (con.WORKTYPE === 'public') {
 
-        Asena.addCommand({pattern: 'roll', fromMe: false, desc: TRZAR}, (async (message, match) => {
+        Asena.addCommand({pattern: 'toss', fromMe: false, desc: TRZAR}, (async (message, match) => {
 
             await message.client.sendMessage(message.jid, TRSEN, MessageType.text);
             await new Promise(r => setTimeout(r, 4000));
@@ -63,7 +63,7 @@ else if (con.LANG === 'HI') {
 
     if (con.WORKTYPE === 'private') {
 
-        Asena.addCommand({pattern: 'roll', fromMe: true, desc: HIZAR}, (async (message, match) => {
+        Asena.addCommand({pattern: 'toss', fromMe: true, desc: HIZAR}, (async (message, match) => {
 
             await message.client.sendMessage(message.jid, HISEN, MessageType.text);
             await new Promise(r => setTimeout(r, 4000));
@@ -82,7 +82,7 @@ else if (con.LANG === 'HI') {
     }
     else if (con.WORKTYPE === 'public') {
 
-        Asena.addCommand({pattern: 'roll', fromMe: false, desc: HIZAR}, (async (message, match) => {
+        Asena.addCommand({pattern: 'toss', fromMe: false, desc: HIZAR}, (async (message, match) => {
 
             await message.client.sendMessage(message.jid, HISEN, MessageType.text);
             await new Promise(r => setTimeout(r, 4000));
@@ -104,7 +104,7 @@ else {
 
     if (con.WORKTYPE === 'private') {
 
-        Asena.addCommand({pattern: 'roll', fromMe: true, desc: ENZAR}, (async (message, match) => {
+        Asena.addCommand({pattern: 'toss', fromMe: true, desc: ENZAR}, (async (message, match) => {
 
             await message.client.sendMessage(message.jid, ENSEN, MessageType.text);
             await new Promise(r => setTimeout(r, 4000));
@@ -123,7 +123,7 @@ else {
     }
     else if (con.WORKTYPE === 'public') {
 
-        Asena.addCommand({pattern: 'roll', fromMe: false, desc: ENZAR}, (async (message, match) => {
+        Asena.addCommand({pattern: 'toss', fromMe: false, desc: ENZAR}, (async (message, match) => {
 
             await message.client.sendMessage(message.jid, ENSEN, MessageType.text);
             await new Promise(r => setTimeout(r, 4000));
