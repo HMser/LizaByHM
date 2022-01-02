@@ -10,7 +10,7 @@ const fs = require('fs');
 
 // Descriptions
 const TRGAY = "Yanitladiginiz kisinin gay y�zdesini �l�er."
-const ENGAY = "Measures the percentage of love of you towards the replied one."
+const ENGAY = "Measures how much your heart was broken by the person you reply to."
 const HIGAY = "???? ?????? ???????? ???? ???? ?????????? ?? ??????? ?? ????? ??"
 const AZGAY = "Yanitladiginiz kisinin gay y�zdesini �l�er."
 
@@ -1007,13 +1007,13 @@ else {
             r_text[150] = "*%99*";
             r_text[151] = "*%100*";
 
-            var i = Math.floor(100*Math.random())
+            var i = Math.floor(152*Math.random())
 
             await message.client.sendMessage(
                 message.jid, 
                 fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/brkn.mp4"),
                 MessageType.video, 
-                { mimetype: Mimetype.gif, caption: `*Your heart was broken by*` + '@' + message.reply_message.jid.split('@')[0] + ` and your hearts health is reduced to :* ${r_text[i]}` }
+                { mimetype: Mimetype.gif, caption: `*Your heart was broken :* ${r_text[i]}` }
             )
         }));
     }
@@ -1184,13 +1184,13 @@ else {
             r_text[150] = "*%99*";
             r_text[151] = "*%100*";
 
-            var i = Math.floor(100*Math.random())
+            var i = Math.floor(152*Math.random())
 
             await message.client.sendMessage(
                 message.jid, 
                 fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/brkn.mp4"),
                 MessageType.video, 
-                { mimetype: Mimetype.gif, caption: `*Your heart was broken by*` + '@' + message.reply_message.jid.split('@')[0] + ` and your hearts health is reduced to :* ${r_text[i]}` }
+                { mimetype: Mimetype.gif, caption: `*Your heart was broken :* ${r_text[i]}` }
             )
         }));
     }
