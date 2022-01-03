@@ -56,7 +56,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@neera-j/Luttappi-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=android-app%3A%2F%2Forg.telegram.plus&template=https%3A%2F%2Fgithub.com%2Fneera-j%2Fluttappi)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Neeraj-x0/Luttappi-WABOT.git)
      </div>
 <br>
 <br >
