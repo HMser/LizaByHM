@@ -1,39 +1,11 @@
 ## Thanks for Everything 💖
 ### We will always remember you..
 
-<div align="center">
-  <img border-radius: 15px src="https://wallpapercave.com/wp/wp9579723.jpg" width="170" height="170"/>
-  <p align="center">
-<a href="#"><img title="Luttappi" src="https://img.shields.io/badge/-Luttappi-pink?&style=for-the-badge"></a>
-</p>
-  </p>
-<p align="center">
-<a href="https://github.com/neera-j"><img title="NEERAJ" src="https://img.shields.io/badge/author-Raashii?color=blue&style=for-the-badge&logo=github"></a>
 
-</div>
-<p align="center">
-Project created by <a href="https://github.com/neera-j">NEERAJ</a> to make it public
-    <br>
-       | © |
-        Reserved |
-    <br> 
-</p>
-
-----
-
-  <p align="center">
-  <a href="https://github.com/neera-j/luttappi ">
-    <img src="https://img.shields.io/github/repo-size/neera-j/luttappi?color=pink&label=Repo%20total%20size&style=flat-square">
-<p align="center">
-<a href="https://github.com/neera-j/followers"><img title="Followers" src="https://img.shields.io/github/followers/neera-j?color=grey&style=plastic"></a>
-<a href="https://github.com/neera-j/luttappi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/neera-j/luttappi?color=grey&style=plastic"></a>
-<a href="https://github.com/neera-j/luttappi/network/members"><img title="Forks" src="https://img.shields.io/github/forks/neera-j/luttappi?color=grey&style=plastic"></a>
-<a href="https://github.com/neera-j/luttappi/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/neera-j/luttappi?label=Watchers&color=grey&style=flat-circle"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-pink.svg"</a>
 
 ```
   
-Luttappi - Luttappi Userbot is Open Source software open to development. 
+Liza Mwol - Liza Mwol Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -56,7 +28,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@neera-j/Luttappi-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Neeraj-x0/Luttappi-WABOT.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HMser/LizaByHM.git)
      </div>
 <br>
 <br >
@@ -70,7 +42,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/neera-j/luttappi
+$ git clone https://github.com/HMser/LizaByHM
 $ cd luttappi
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -80,7 +52,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/neera-j/luttappi.git
+$ git clone https://github.com/HMser/LizaByHM.git
 $ cd luttappi
 $ chmod +x *
 $ npm i
